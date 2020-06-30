@@ -1,1 +1,1 @@
-# distributed-whiteboard
+# King and Knights
